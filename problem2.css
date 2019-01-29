@@ -1,0 +1,16 @@
+header
+{
+    color: turquoise;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Chilanka
+;
+}
+
+p{
+    color:purple;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
